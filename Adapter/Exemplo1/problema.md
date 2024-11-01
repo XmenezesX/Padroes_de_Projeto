@@ -6,7 +6,7 @@ armazenamento de forma intercambiável.
 
 # Requisitos:
 - Interface de Armazenamento: Crie uma interface CloudStorage com um método upload($file).
-- Implementações Específicas:
+## Implementações Específicas:
 - Google Drive: Crie uma classe GoogleDrive com um método uploadFile($file).
 - Dropbox: Crie uma classe Dropbox com um método uploadToDropbox($file).
 # Adapter:
