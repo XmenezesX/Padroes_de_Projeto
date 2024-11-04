@@ -1,7 +1,7 @@
 <?php
 include_once "BaseCloudStorage.php";
 
-class Dropbox extends BaseCloudStorage{
+class DropboxService extends BaseCloudStorage{
     public function uploadFile($file)
     {
         // lógica de implementação de upload
