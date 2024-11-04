@@ -11,4 +11,4 @@
 - A **Motivação** explica a fundo o problema e a solução.
 - As **Estruturas de Classes** mostram cada parte do padrão e como se relacionam.
 
-  ## Classificação dos Padrões 
+## Classificação dos Padrões 
